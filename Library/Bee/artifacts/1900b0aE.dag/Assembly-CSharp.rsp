@@ -327,9 +327,11 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.44f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/createTetra.cs"
-"Assets/cubo.cs"
-"Assets/manager.cs"
+"Assets/Scripts/createTetra.cs"
+"Assets/Scripts/cubo.cs"
+"Assets/Scripts/manager.cs"
+"Assets/Scripts/PyraminxController.cs"
+"Assets/Scripts/PyraminxPiece.cs"
 -langversion:9.0
 /deterministic
 /optimize+
